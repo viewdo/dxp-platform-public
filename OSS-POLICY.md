@@ -4,17 +4,11 @@ Organizations today face increasing pressure to become more agile and economical
 
 ## Open Source
 
-Open Source is at the heart of the view.DO business and development model. We believe that Open Source is not a zero-sum game but that collaboration in the open benefits all participants and creates a broader base for everybody to build upon. view.DO is proud to be a good citizen of the global open source community. Our approach to Open Source is “Open Source first, upstream first”.
-
-This document provides transparency on how view.DO operates and outlines our engineer’s guidelines on how to deal with Open Source. It might also serve as inspiration for others implementing Open Source policies.
+This document provides transparency on how view.DO operates and outlines our engineer’s guidelines on how to deal with Open Source.
 
 view.DO uses the term “Open Source” for brevity and because it is the clearest descriptor in the context we are operating in. We do recognize that Open Source is more than just a development model and that there are ideals behind it, the ideals to respect users’ freedoms and community, and specifically the freedoms to use, study, share, and improve software. view.DO has many engineers passionately standing behind the ideals of Free and Open Source Software and support these ideals as a company.
 
 When we discuss Open Source Software we refer to the definition of Open Source Licenses by the Open Source Initiative (“OSI”). view.DO considers software, including its documentation, released under a license that is compatible with OSI’s Open Source Definition to be Open Source.
-
-## Producing Open Source Software
-
-We develop in the open and publish our code as Open Source. view.DO products are fully Open Source. There are only rare exceptions where we don’t release code as Open Source. Our development model is designed around Open Source to make it easy for our engineers to produce and contribute to Open Source software.
 
 ## Contributing to Open Source Projects
 
@@ -56,7 +50,7 @@ The code you contribute upstream or publish as Open Source as part of your job a
 
 Although technical in nature, the Open Source community is first and foremost about people. Treat other people with respect. Be kind, be open, respect the culture of the community you are interacting with and be aware of the diversity of people in that community. Be aware that, particularly in electronic communication, you might misunderstand or misinterpret what others are saying or meaning. The reverse is also true.
 
-Follow any codes of conduct and set a high bar for your own behaviour. See the openview.DO Guiding Principles for an example of how we envision the community for one of our main projects.
+Follow any codes of conduct and set a high bar for your own behavior.
 
 ## Consuming Open Source Software
 
